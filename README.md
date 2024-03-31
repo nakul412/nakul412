@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Nakul Grover</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
+<div style="margin-left: 20px;">
+    <img align="right" width="300" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+</div>
 - 👻 My passion lies in the **intricate dance of front-end frameworks and back-end technologies**
 
 - 🌱 I'm evolving my skills with **each project, adopting new technologies and refining my coding practices.**
